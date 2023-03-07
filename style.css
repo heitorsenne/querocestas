@@ -109,7 +109,7 @@
 .cesta{
     
     height: 400px;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 
@@ -118,12 +118,12 @@
     flex-direction: column;
     align-items: center;
     gap: 24px;
-    margin-top: 30px;
+    margin-top: 100px;
 }
 
 .conteudo-frase{
     border-top: 0.4px solid blanchedalmond;
-    padding-top: 35px;
+    padding-top: 32px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 24px;
@@ -133,12 +133,12 @@
 
 .conteudo-rodape{
     border-top: 0.4px solid blanchedalmond;
-    padding-top:100px;
+    padding-top:35px;
     display: flex;
     flex-direction: row-reverse;
     justify-content: center ;
     gap: 5px;
-    margin-bottom: 30px;
+
 }
 
 
@@ -149,8 +149,8 @@
 
 .frase-rodape{
     font-family: 'Righteous', cursive;
-    font-weight: 400;
-    font-size: 24px;
+    font-weight: 500;
+    font-size: 23px;
     color: blanchedalmond;
         
 }
